@@ -1,0 +1,7 @@
+.scale-hover {
+    transition: transform 0.3s ease-in-out; /* Controla a duração e suavidade */
+}
+
+.scale-hover:hover {
+    transform: scale(1.1); /* Aumenta 10% quando o mouse passa */
+}
